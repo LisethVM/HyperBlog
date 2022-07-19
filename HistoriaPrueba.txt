@@ -2,4 +2,4 @@ Esta es una prueba de la creacion de archivos
 
 desde Visual Studio Code con ctrl+N
 
-Hola, soy Liseth
+Hola, soy Liseth y estoy aprendiendo
