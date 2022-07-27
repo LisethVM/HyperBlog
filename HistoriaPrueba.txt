@@ -2,4 +2,6 @@ Esta es una prueba de la creacion de archivos
 
 desde Visual Studio Code con ctrl+N
 
-Hola, soy Liseth y estoy aprendiendo
+Hola, soy Liseth y estoy aprendiendo git hub y git para commit
+
+Estoy agregando el tercer estado de cambio
