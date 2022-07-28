@@ -6,4 +6,4 @@ Hola, soy Liseth y estoy aprendiendo git hub y git para commit
 
 Estoy agregando el tercer estado de cambio
 
-ahora vamos por el cuarto estado o cambio
+ahora, este es el cambio para el txt despues de probar el git reset -- hard
